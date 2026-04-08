@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm 谢桉 (Xie An) 👋
 
-<!--
-**xiean184/xiean184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a master's student in Intelligent Science and Engineering at **Northwestern Polytechnical University (NWPU)**. Currently focusing on **Aerospace Propulsion**, **Combustion Dynamics**, and **Deep Learning**.
 
-Here are some ideas to get you started:
+### 🚀 Current Focus
+* **Physics-Informed ML:** Modeling dynamic response curves (PV/PCI) using TCN and LSTM.
+* **Experimental Fluid Mechanics:** Analyzing PIV and PLIF data for combustion stability research.
+* **Model Deployment:** Learning C++ and ONNX for real-time inference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+* **Languages:** Python, C++, MATLAB
+* **AI & Tools:** PyTorch, ONNX, Git, LaTeX
+
+### 📫 Let's Connect
+* **Email:** (填入你的邮箱)
+* **Blog:** (填入你的博客或知乎链接)
